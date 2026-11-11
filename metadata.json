@@ -1,0 +1,6 @@
+{
+  "name": "KalyBudget - Gestion Dépenses Mobile",
+  "description": "Application mobile de gestion des dépenses personnelles avec prévisions de budget, suivi en temps réel, alertes de seuils et fonctionnement 100% hors-ligne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
